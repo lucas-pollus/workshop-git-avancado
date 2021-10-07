@@ -5,3 +5,4 @@
 - Danger
 - Warning
 - Error
+- Teste
