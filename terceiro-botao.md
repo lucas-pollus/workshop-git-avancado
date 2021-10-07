@@ -6,3 +6,4 @@
 - Warning
 - Error
 - Teste
+- C/ GH Runner
